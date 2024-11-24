@@ -7,7 +7,7 @@ from telebot.types import (Message, ReplyKeyboardMarkup,
                            KeyboardButton, ReplyKeyboardRemove)
 from db import *
 
-TOKEN = "7259213105:AAFtGYG0Miu6W4pPfPsYQuQOEaDz5wsChPo"
+TOKEN = ""
 bot = TeleBot(TOKEN)
 
 game = False
